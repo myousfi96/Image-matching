@@ -1,0 +1,78 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./frontend:/app
+    environment:
+      - API_URL=http://api:8080
+      - PUBLIC_API_URL=http://localhost:8080
+      - NVIDIA_VISIBLE_DEVICES=all
+    runtime: nvidia
+    depends_on:
+      - api
+      - triton-server
+      - mongo
+
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/app
+    environment:
+      - TRITON_HOST=triton-server
+      - MONGO_HOST=mongo
+      - NVIDIA_VISIBLE_DEVICES=all
+    runtime: nvidia
+    depends_on:
+      triton-server:
+        condition: service_started
+      mongo:
+        condition: service_healthy
+
+  triton-server:
+    build:
+      context: ./triton-server
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+      - "8001:8001"
+      - "8002:8002"
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    command: bash -c "export PYTHONPATH=/workspace:${PYTHONPATH} && ([ -n \"$$(ls -A /workspace/.qdrant_data)\" ] || python3 -u triton-server/populate_db.py) && python3 -u triton-server/quantize.py && tritonserver --model-repository=/workspace/triton --model-control-mode=poll --repository-poll-secs=10"
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - MONGO_HOST=mongo
+      - PYTHONPATH=/workspace
+    depends_on:
+      mongo:
+        condition: service_healthy
+
+  mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    command: mongod --quiet
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongosh localhost:27017/test --quiet
+      interval: 10s
+      timeout: 10s
+      retries: 5
+      start_period: 40s
+
+volumes:
+  mongo-data:
+  qdrant-data: 

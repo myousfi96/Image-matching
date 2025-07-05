@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 0,
+    "filename": "stl10_0000.jpg",
+    "image_path": "data/images/stl10_0000.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 1,
+    "filename": "stl10_0001.jpg",
+    "image_path": "data/images/stl10_0001.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 2,
+    "filename": "stl10_0002.jpg",
+    "image_path": "data/images/stl10_0002.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 3,
+    "filename": "stl10_0003.jpg",
+    "image_path": "data/images/stl10_0003.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 4,
+    "filename": "stl10_0004.jpg",
+    "image_path": "data/images/stl10_0004.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 5,
+    "filename": "stl10_0005.jpg",
+    "image_path": "data/images/stl10_0005.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 6,
+    "filename": "stl10_0006.jpg",
+    "image_path": "data/images/stl10_0006.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 7,
+    "filename": "stl10_0007.jpg",
+    "image_path": "data/images/stl10_0007.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 8,
+    "filename": "stl10_0008.jpg",
+    "image_path": "data/images/stl10_0008.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 9,
+    "filename": "stl10_0009.jpg",
+    "image_path": "data/images/stl10_0009.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 10,
+    "filename": "stl10_0010.jpg",
+    "image_path": "data/images/stl10_0010.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 11,
+    "filename": "stl10_0011.jpg",
+    "image_path": "data/images/stl10_0011.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 12,
+    "filename": "stl10_0012.jpg",
+    "image_path": "data/images/stl10_0012.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 13,
+    "filename": "stl10_0013.jpg",
+    "image_path": "data/images/stl10_0013.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 14,
+    "filename": "stl10_0014.jpg",
+    "image_path": "data/images/stl10_0014.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 15,
+    "filename": "stl10_0015.jpg",
+    "image_path": "data/images/stl10_0015.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 16,
+    "filename": "stl10_0016.jpg",
+    "image_path": "data/images/stl10_0016.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 17,
+    "filename": "stl10_0017.jpg",
+    "image_path": "data/images/stl10_0017.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 18,
+    "filename": "stl10_0018.jpg",
+    "image_path": "data/images/stl10_0018.jpg",
+    "category": "car"
+  },
+  {
+    "id": 19,
+    "filename": "stl10_0019.jpg",
+    "image_path": "data/images/stl10_0019.jpg",
+    "category": "car"
+  },
+  {
+    "id": 20,
+    "filename": "stl10_0020.jpg",
+    "image_path": "data/images/stl10_0020.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 21,
+    "filename": "stl10_0021.jpg",
+    "image_path": "data/images/stl10_0021.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 22,
+    "filename": "stl10_0022.jpg",
+    "image_path": "data/images/stl10_0022.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 23,
+    "filename": "stl10_0023.jpg",
+    "image_path": "data/images/stl10_0023.jpg",
+    "category": "car"
+  },
+  {
+    "id": 24,
+    "filename": "stl10_0024.jpg",
+    "image_path": "data/images/stl10_0024.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 25,
+    "filename": "stl10_0025.jpg",
+    "image_path": "data/images/stl10_0025.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 26,
+    "filename": "stl10_0026.jpg",
+    "image_path": "data/images/stl10_0026.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 27,
+    "filename": "stl10_0027.jpg",
+    "image_path": "data/images/stl10_0027.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 28,
+    "filename": "stl10_0028.jpg",
+    "image_path": "data/images/stl10_0028.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 29,
+    "filename": "stl10_0029.jpg",
+    "image_path": "data/images/stl10_0029.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 30,
+    "filename": "stl10_0030.jpg",
+    "image_path": "data/images/stl10_0030.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 31,
+    "filename": "stl10_0031.jpg",
+    "image_path": "data/images/stl10_0031.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 32,
+    "filename": "stl10_0032.jpg",
+    "image_path": "data/images/stl10_0032.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 33,
+    "filename": "stl10_0033.jpg",
+    "image_path": "data/images/stl10_0033.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 34,
+    "filename": "stl10_0034.jpg",
+    "image_path": "data/images/stl10_0034.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 35,
+    "filename": "stl10_0035.jpg",
+    "image_path": "data/images/stl10_0035.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 36,
+    "filename": "stl10_0036.jpg",
+    "image_path": "data/images/stl10_0036.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 37,
+    "filename": "stl10_0037.jpg",
+    "image_path": "data/images/stl10_0037.jpg",
+    "category": "car"
+  },
+  {
+    "id": 38,
+    "filename": "stl10_0038.jpg",
+    "image_path": "data/images/stl10_0038.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 39,
+    "filename": "stl10_0039.jpg",
+    "image_path": "data/images/stl10_0039.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 40,
+    "filename": "stl10_0040.jpg",
+    "image_path": "data/images/stl10_0040.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 41,
+    "filename": "stl10_0041.jpg",
+    "image_path": "data/images/stl10_0041.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 42,
+    "filename": "stl10_0042.jpg",
+    "image_path": "data/images/stl10_0042.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 43,
+    "filename": "stl10_0043.jpg",
+    "image_path": "data/images/stl10_0043.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 44,
+    "filename": "stl10_0044.jpg",
+    "image_path": "data/images/stl10_0044.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 45,
+    "filename": "stl10_0045.jpg",
+    "image_path": "data/images/stl10_0045.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 46,
+    "filename": "stl10_0046.jpg",
+    "image_path": "data/images/stl10_0046.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 47,
+    "filename": "stl10_0047.jpg",
+    "image_path": "data/images/stl10_0047.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 48,
+    "filename": "stl10_0048.jpg",
+    "image_path": "data/images/stl10_0048.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 49,
+    "filename": "stl10_0049.jpg",
+    "image_path": "data/images/stl10_0049.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 50,
+    "filename": "stl10_0050.jpg",
+    "image_path": "data/images/stl10_0050.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 51,
+    "filename": "stl10_0051.jpg",
+    "image_path": "data/images/stl10_0051.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 52,
+    "filename": "stl10_0052.jpg",
+    "image_path": "data/images/stl10_0052.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 53,
+    "filename": "stl10_0053.jpg",
+    "image_path": "data/images/stl10_0053.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 54,
+    "filename": "stl10_0054.jpg",
+    "image_path": "data/images/stl10_0054.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 55,
+    "filename": "stl10_0055.jpg",
+    "image_path": "data/images/stl10_0055.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 56,
+    "filename": "stl10_0056.jpg",
+    "image_path": "data/images/stl10_0056.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 57,
+    "filename": "stl10_0057.jpg",
+    "image_path": "data/images/stl10_0057.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 58,
+    "filename": "stl10_0058.jpg",
+    "image_path": "data/images/stl10_0058.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 59,
+    "filename": "stl10_0059.jpg",
+    "image_path": "data/images/stl10_0059.jpg",
+    "category": "car"
+  },
+  {
+    "id": 60,
+    "filename": "stl10_0060.jpg",
+    "image_path": "data/images/stl10_0060.jpg",
+    "category": "car"
+  },
+  {
+    "id": 61,
+    "filename": "stl10_0061.jpg",
+    "image_path": "data/images/stl10_0061.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 62,
+    "filename": "stl10_0062.jpg",
+    "image_path": "data/images/stl10_0062.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 63,
+    "filename": "stl10_0063.jpg",
+    "image_path": "data/images/stl10_0063.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 64,
+    "filename": "stl10_0064.jpg",
+    "image_path": "data/images/stl10_0064.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 65,
+    "filename": "stl10_0065.jpg",
+    "image_path": "data/images/stl10_0065.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 66,
+    "filename": "stl10_0066.jpg",
+    "image_path": "data/images/stl10_0066.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 67,
+    "filename": "stl10_0067.jpg",
+    "image_path": "data/images/stl10_0067.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 68,
+    "filename": "stl10_0068.jpg",
+    "image_path": "data/images/stl10_0068.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 69,
+    "filename": "stl10_0069.jpg",
+    "image_path": "data/images/stl10_0069.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 70,
+    "filename": "stl10_0070.jpg",
+    "image_path": "data/images/stl10_0070.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 71,
+    "filename": "stl10_0071.jpg",
+    "image_path": "data/images/stl10_0071.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 72,
+    "filename": "stl10_0072.jpg",
+    "image_path": "data/images/stl10_0072.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 73,
+    "filename": "stl10_0073.jpg",
+    "image_path": "data/images/stl10_0073.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 74,
+    "filename": "stl10_0074.jpg",
+    "image_path": "data/images/stl10_0074.jpg",
+    "category": "car"
+  },
+  {
+    "id": 75,
+    "filename": "stl10_0075.jpg",
+    "image_path": "data/images/stl10_0075.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 76,
+    "filename": "stl10_0076.jpg",
+    "image_path": "data/images/stl10_0076.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 77,
+    "filename": "stl10_0077.jpg",
+    "image_path": "data/images/stl10_0077.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 78,
+    "filename": "stl10_0078.jpg",
+    "image_path": "data/images/stl10_0078.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 79,
+    "filename": "stl10_0079.jpg",
+    "image_path": "data/images/stl10_0079.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 80,
+    "filename": "stl10_0080.jpg",
+    "image_path": "data/images/stl10_0080.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 81,
+    "filename": "stl10_0081.jpg",
+    "image_path": "data/images/stl10_0081.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 82,
+    "filename": "stl10_0082.jpg",
+    "image_path": "data/images/stl10_0082.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 83,
+    "filename": "stl10_0083.jpg",
+    "image_path": "data/images/stl10_0083.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 84,
+    "filename": "stl10_0084.jpg",
+    "image_path": "data/images/stl10_0084.jpg",
+    "category": "car"
+  },
+  {
+    "id": 85,
+    "filename": "stl10_0085.jpg",
+    "image_path": "data/images/stl10_0085.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 86,
+    "filename": "stl10_0086.jpg",
+    "image_path": "data/images/stl10_0086.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 87,
+    "filename": "stl10_0087.jpg",
+    "image_path": "data/images/stl10_0087.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 88,
+    "filename": "stl10_0088.jpg",
+    "image_path": "data/images/stl10_0088.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 89,
+    "filename": "stl10_0089.jpg",
+    "image_path": "data/images/stl10_0089.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 90,
+    "filename": "stl10_0090.jpg",
+    "image_path": "data/images/stl10_0090.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 91,
+    "filename": "stl10_0091.jpg",
+    "image_path": "data/images/stl10_0091.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 92,
+    "filename": "stl10_0092.jpg",
+    "image_path": "data/images/stl10_0092.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 93,
+    "filename": "stl10_0093.jpg",
+    "image_path": "data/images/stl10_0093.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 94,
+    "filename": "stl10_0094.jpg",
+    "image_path": "data/images/stl10_0094.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 95,
+    "filename": "stl10_0095.jpg",
+    "image_path": "data/images/stl10_0095.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 96,
+    "filename": "stl10_0096.jpg",
+    "image_path": "data/images/stl10_0096.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 97,
+    "filename": "stl10_0097.jpg",
+    "image_path": "data/images/stl10_0097.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 98,
+    "filename": "stl10_0098.jpg",
+    "image_path": "data/images/stl10_0098.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 99,
+    "filename": "stl10_0099.jpg",
+    "image_path": "data/images/stl10_0099.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 100,
+    "filename": "stl10_0100.jpg",
+    "image_path": "data/images/stl10_0100.jpg",
+    "category": "car"
+  },
+  {
+    "id": 101,
+    "filename": "stl10_0101.jpg",
+    "image_path": "data/images/stl10_0101.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 102,
+    "filename": "stl10_0102.jpg",
+    "image_path": "data/images/stl10_0102.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 103,
+    "filename": "stl10_0103.jpg",
+    "image_path": "data/images/stl10_0103.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 104,
+    "filename": "stl10_0104.jpg",
+    "image_path": "data/images/stl10_0104.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 105,
+    "filename": "stl10_0105.jpg",
+    "image_path": "data/images/stl10_0105.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 106,
+    "filename": "stl10_0106.jpg",
+    "image_path": "data/images/stl10_0106.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 107,
+    "filename": "stl10_0107.jpg",
+    "image_path": "data/images/stl10_0107.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 108,
+    "filename": "stl10_0108.jpg",
+    "image_path": "data/images/stl10_0108.jpg",
+    "category": "car"
+  },
+  {
+    "id": 109,
+    "filename": "stl10_0109.jpg",
+    "image_path": "data/images/stl10_0109.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 110,
+    "filename": "stl10_0110.jpg",
+    "image_path": "data/images/stl10_0110.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 111,
+    "filename": "stl10_0111.jpg",
+    "image_path": "data/images/stl10_0111.jpg",
+    "category": "car"
+  },
+  {
+    "id": 112,
+    "filename": "stl10_0112.jpg",
+    "image_path": "data/images/stl10_0112.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 113,
+    "filename": "stl10_0113.jpg",
+    "image_path": "data/images/stl10_0113.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 114,
+    "filename": "stl10_0114.jpg",
+    "image_path": "data/images/stl10_0114.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 115,
+    "filename": "stl10_0115.jpg",
+    "image_path": "data/images/stl10_0115.jpg",
+    "category": "car"
+  },
+  {
+    "id": 116,
+    "filename": "stl10_0116.jpg",
+    "image_path": "data/images/stl10_0116.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 117,
+    "filename": "stl10_0117.jpg",
+    "image_path": "data/images/stl10_0117.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 118,
+    "filename": "stl10_0118.jpg",
+    "image_path": "data/images/stl10_0118.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 119,
+    "filename": "stl10_0119.jpg",
+    "image_path": "data/images/stl10_0119.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 120,
+    "filename": "stl10_0120.jpg",
+    "image_path": "data/images/stl10_0120.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 121,
+    "filename": "stl10_0121.jpg",
+    "image_path": "data/images/stl10_0121.jpg",
+    "category": "car"
+  },
+  {
+    "id": 122,
+    "filename": "stl10_0122.jpg",
+    "image_path": "data/images/stl10_0122.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 123,
+    "filename": "stl10_0123.jpg",
+    "image_path": "data/images/stl10_0123.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 124,
+    "filename": "stl10_0124.jpg",
+    "image_path": "data/images/stl10_0124.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 125,
+    "filename": "stl10_0125.jpg",
+    "image_path": "data/images/stl10_0125.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 126,
+    "filename": "stl10_0126.jpg",
+    "image_path": "data/images/stl10_0126.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 127,
+    "filename": "stl10_0127.jpg",
+    "image_path": "data/images/stl10_0127.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 128,
+    "filename": "stl10_0128.jpg",
+    "image_path": "data/images/stl10_0128.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 129,
+    "filename": "stl10_0129.jpg",
+    "image_path": "data/images/stl10_0129.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 130,
+    "filename": "stl10_0130.jpg",
+    "image_path": "data/images/stl10_0130.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 131,
+    "filename": "stl10_0131.jpg",
+    "image_path": "data/images/stl10_0131.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 132,
+    "filename": "stl10_0132.jpg",
+    "image_path": "data/images/stl10_0132.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 133,
+    "filename": "stl10_0133.jpg",
+    "image_path": "data/images/stl10_0133.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 134,
+    "filename": "stl10_0134.jpg",
+    "image_path": "data/images/stl10_0134.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 135,
+    "filename": "stl10_0135.jpg",
+    "image_path": "data/images/stl10_0135.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 136,
+    "filename": "stl10_0136.jpg",
+    "image_path": "data/images/stl10_0136.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 137,
+    "filename": "stl10_0137.jpg",
+    "image_path": "data/images/stl10_0137.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 138,
+    "filename": "stl10_0138.jpg",
+    "image_path": "data/images/stl10_0138.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 139,
+    "filename": "stl10_0139.jpg",
+    "image_path": "data/images/stl10_0139.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 140,
+    "filename": "stl10_0140.jpg",
+    "image_path": "data/images/stl10_0140.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 141,
+    "filename": "stl10_0141.jpg",
+    "image_path": "data/images/stl10_0141.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 142,
+    "filename": "stl10_0142.jpg",
+    "image_path": "data/images/stl10_0142.jpg",
+    "category": "car"
+  },
+  {
+    "id": 143,
+    "filename": "stl10_0143.jpg",
+    "image_path": "data/images/stl10_0143.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 144,
+    "filename": "stl10_0144.jpg",
+    "image_path": "data/images/stl10_0144.jpg",
+    "category": "car"
+  },
+  {
+    "id": 145,
+    "filename": "stl10_0145.jpg",
+    "image_path": "data/images/stl10_0145.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 146,
+    "filename": "stl10_0146.jpg",
+    "image_path": "data/images/stl10_0146.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 147,
+    "filename": "stl10_0147.jpg",
+    "image_path": "data/images/stl10_0147.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 148,
+    "filename": "stl10_0148.jpg",
+    "image_path": "data/images/stl10_0148.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 149,
+    "filename": "stl10_0149.jpg",
+    "image_path": "data/images/stl10_0149.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 150,
+    "filename": "stl10_0150.jpg",
+    "image_path": "data/images/stl10_0150.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 151,
+    "filename": "stl10_0151.jpg",
+    "image_path": "data/images/stl10_0151.jpg",
+    "category": "car"
+  },
+  {
+    "id": 152,
+    "filename": "stl10_0152.jpg",
+    "image_path": "data/images/stl10_0152.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 153,
+    "filename": "stl10_0153.jpg",
+    "image_path": "data/images/stl10_0153.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 154,
+    "filename": "stl10_0154.jpg",
+    "image_path": "data/images/stl10_0154.jpg",
+    "category": "car"
+  },
+  {
+    "id": 155,
+    "filename": "stl10_0155.jpg",
+    "image_path": "data/images/stl10_0155.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 156,
+    "filename": "stl10_0156.jpg",
+    "image_path": "data/images/stl10_0156.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 157,
+    "filename": "stl10_0157.jpg",
+    "image_path": "data/images/stl10_0157.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 158,
+    "filename": "stl10_0158.jpg",
+    "image_path": "data/images/stl10_0158.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 159,
+    "filename": "stl10_0159.jpg",
+    "image_path": "data/images/stl10_0159.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 160,
+    "filename": "stl10_0160.jpg",
+    "image_path": "data/images/stl10_0160.jpg",
+    "category": "car"
+  },
+  {
+    "id": 161,
+    "filename": "stl10_0161.jpg",
+    "image_path": "data/images/stl10_0161.jpg",
+    "category": "car"
+  },
+  {
+    "id": 162,
+    "filename": "stl10_0162.jpg",
+    "image_path": "data/images/stl10_0162.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 163,
+    "filename": "stl10_0163.jpg",
+    "image_path": "data/images/stl10_0163.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 164,
+    "filename": "stl10_0164.jpg",
+    "image_path": "data/images/stl10_0164.jpg",
+    "category": "ship"
+  },
+  {
+    "id": 165,
+    "filename": "stl10_0165.jpg",
+    "image_path": "data/images/stl10_0165.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 166,
+    "filename": "stl10_0166.jpg",
+    "image_path": "data/images/stl10_0166.jpg",
+    "category": "car"
+  },
+  {
+    "id": 167,
+    "filename": "stl10_0167.jpg",
+    "image_path": "data/images/stl10_0167.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 168,
+    "filename": "stl10_0168.jpg",
+    "image_path": "data/images/stl10_0168.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 169,
+    "filename": "stl10_0169.jpg",
+    "image_path": "data/images/stl10_0169.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 170,
+    "filename": "stl10_0170.jpg",
+    "image_path": "data/images/stl10_0170.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 171,
+    "filename": "stl10_0171.jpg",
+    "image_path": "data/images/stl10_0171.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 172,
+    "filename": "stl10_0172.jpg",
+    "image_path": "data/images/stl10_0172.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 173,
+    "filename": "stl10_0173.jpg",
+    "image_path": "data/images/stl10_0173.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 174,
+    "filename": "stl10_0174.jpg",
+    "image_path": "data/images/stl10_0174.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 175,
+    "filename": "stl10_0175.jpg",
+    "image_path": "data/images/stl10_0175.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 176,
+    "filename": "stl10_0176.jpg",
+    "image_path": "data/images/stl10_0176.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 177,
+    "filename": "stl10_0177.jpg",
+    "image_path": "data/images/stl10_0177.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 178,
+    "filename": "stl10_0178.jpg",
+    "image_path": "data/images/stl10_0178.jpg",
+    "category": "car"
+  },
+  {
+    "id": 179,
+    "filename": "stl10_0179.jpg",
+    "image_path": "data/images/stl10_0179.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 180,
+    "filename": "stl10_0180.jpg",
+    "image_path": "data/images/stl10_0180.jpg",
+    "category": "truck"
+  },
+  {
+    "id": 181,
+    "filename": "stl10_0181.jpg",
+    "image_path": "data/images/stl10_0181.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 182,
+    "filename": "stl10_0182.jpg",
+    "image_path": "data/images/stl10_0182.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 183,
+    "filename": "stl10_0183.jpg",
+    "image_path": "data/images/stl10_0183.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 184,
+    "filename": "stl10_0184.jpg",
+    "image_path": "data/images/stl10_0184.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 185,
+    "filename": "stl10_0185.jpg",
+    "image_path": "data/images/stl10_0185.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 186,
+    "filename": "stl10_0186.jpg",
+    "image_path": "data/images/stl10_0186.jpg",
+    "category": "car"
+  },
+  {
+    "id": 187,
+    "filename": "stl10_0187.jpg",
+    "image_path": "data/images/stl10_0187.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 188,
+    "filename": "stl10_0188.jpg",
+    "image_path": "data/images/stl10_0188.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 189,
+    "filename": "stl10_0189.jpg",
+    "image_path": "data/images/stl10_0189.jpg",
+    "category": "horse"
+  },
+  {
+    "id": 190,
+    "filename": "stl10_0190.jpg",
+    "image_path": "data/images/stl10_0190.jpg",
+    "category": "monkey"
+  },
+  {
+    "id": 191,
+    "filename": "stl10_0191.jpg",
+    "image_path": "data/images/stl10_0191.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 192,
+    "filename": "stl10_0192.jpg",
+    "image_path": "data/images/stl10_0192.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 193,
+    "filename": "stl10_0193.jpg",
+    "image_path": "data/images/stl10_0193.jpg",
+    "category": "bird"
+  },
+  {
+    "id": 194,
+    "filename": "stl10_0194.jpg",
+    "image_path": "data/images/stl10_0194.jpg",
+    "category": "cat"
+  },
+  {
+    "id": 195,
+    "filename": "stl10_0195.jpg",
+    "image_path": "data/images/stl10_0195.jpg",
+    "category": "dog"
+  },
+  {
+    "id": 196,
+    "filename": "stl10_0196.jpg",
+    "image_path": "data/images/stl10_0196.jpg",
+    "category": "deer"
+  },
+  {
+    "id": 197,
+    "filename": "stl10_0197.jpg",
+    "image_path": "data/images/stl10_0197.jpg",
+    "category": "car"
+  },
+  {
+    "id": 198,
+    "filename": "stl10_0198.jpg",
+    "image_path": "data/images/stl10_0198.jpg",
+    "category": "airplane"
+  },
+  {
+    "id": 199,
+    "filename": "stl10_0199.jpg",
+    "image_path": "data/images/stl10_0199.jpg",
+    "category": "monkey"
+  }
+]

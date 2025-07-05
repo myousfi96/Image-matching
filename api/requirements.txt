@@ -1,0 +1,13 @@
+# API Service Dependencies (Lightweight)
+fastapi
+uvicorn[standard]
+python-multipart
+tritonclient[http]
+qdrant-client
+pymongo
+python-dotenv
+numpy
+Pillow
+requests
+pydantic
+transformers

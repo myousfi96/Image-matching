@@ -1,0 +1,8 @@
+# Dependencies for quantize.py
+torch
+transformers
+Pillow
+onnx
+qdrant-client
+pymongo
+dotenv
