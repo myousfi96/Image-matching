@@ -49,7 +49,7 @@ services:
     volumes:
       - .:/workspace
     working_dir: /workspace
-    command: bash -c "export PYTHONPATH=/workspace:${PYTHONPATH} && ([ -n \"$$(ls -A /workspace/.qdrant_data)\" ] || python3 -u triton-server/populate_db.py) && python3 -u triton-server/quantize.py && tritonserver --model-repository=/workspace/triton --model-control-mode=poll --repository-poll-secs=10"
+    command: bash -c "export PYTHONPATH=/workspace:${PYTHONPATH} && ([ -n \"$$(ls -A /workspace/api/.qdrant_data)\" ] || python3 -u triton-server/populate_db.py) && python3 -u triton-server/quantize.py && tritonserver --model-repository=/workspace/triton --model-control-mode=poll --repository-poll-secs=10"
     runtime: nvidia
     environment:
       - NVIDIA_VISIBLE_DEVICES=all

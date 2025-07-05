@@ -35,7 +35,11 @@ Before you begin, ensure you have the following installed on your system:
     cd Image-matching
     ```
 2.  **Data Population**
-    The `populate_db.py` script is automatically run by the `triton-server` container on its first startup. This script populates the vector database and MongoDB with initial product data. Make sure your product data is available at the location expected by the script (e.g., inside the `data/` directory).
+    The `populate_db.py` script is automatically run by the `triton-server` container on its first startup. This script populates the vector database and MongoDB with initial product data.
+    
+    **Sample dataset**: A small set of example product images and a matching `metadata.json` file are already included under the `data/` directory (`data/images/…`). If you do nothing, running `docker-compose up --build` will use these files and the startup script will automatically populate both databases for you.
+    
+    If you want to experiment with your own catalogue, simply replace the contents of `data/images/` and update `data/metadata.json` before starting the stack.
 
 ## Running the System
 
